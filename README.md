@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabedeva
 - 👀 I’m interested in web development, software engineering
-- 🌱 I’m currently learning microservices
+- 🌱 I’m currently learning nodeJS, microservices and typeScript
 - 💞️ I’m looking to collaborate on intersting projects as it solves problem
 - 📫 How to reach me obafisilegabriel@gmail.com
 
