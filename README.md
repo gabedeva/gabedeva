@@ -1,4 +1,4 @@
-- 👋 Hi there, my name is Gabedeva and it's nice to meet you. 👋
+- 👋 Hi there, my name is Gabriel Obafisile and it's nice to meet you. 👋
 - I'm a geek, love constantly learning, and passionate about IT.
 - 👀 I’m interested in web development, software engineering
 - 🌱 I’m currently learning nodeJS, microservices and typeScript
