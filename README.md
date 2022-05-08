@@ -1,7 +1,7 @@
 - 👋 Hi there, my name is Gabriel Obafisile and it's nice to meet you. 👋
+- 🌱 I’m currently learning nodeJS, microservices and typeScript.
 - I'm a geek, love constantly learning, and passionate about IT.
-- 👀 I’m interested in web development, software engineering
-- 🌱 I’m currently learning nodeJS, microservices and typeScript
+- 👀 I’m interested in software engineering, Crypto and Networking.
 - 📫 How to reach me obafisilegabriel@gmail.com
 - 😄 Pronouns: he/him
 
